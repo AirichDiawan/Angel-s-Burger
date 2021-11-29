@@ -1,3 +1,6 @@
+* {
+	scroll-behavior: smooth;
+}
 /*FOR 1199 MAX WIDTH RESOLUTION*/
 @media only screen and (min-width: 1000px) and (max-width: 1199px){
   *{
